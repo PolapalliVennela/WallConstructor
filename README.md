@@ -1,0 +1,1 @@
+Implementation of a comprehensive wall constructer, when the user enters the different types of bricks and no. of bricks of each type available and area of the wall to be constructed, it shows wheather it is possible or not,if possible a constructed wall with the available no.of bricks is displayed to the user.
